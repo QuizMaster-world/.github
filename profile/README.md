@@ -27,11 +27,11 @@ We welcome contributions from the community! Whether you're a developer, designe
 
 Join our community to stay up-to-date with the latest news, updates, and discussions:
 
-- **Discussions**: Participate in our [GitHub Discussions]([https://github.com/QuizMaster-organisation/Discussions](https://github.com/orgs/QuizMaster-organisation/discussions) to share ideas and ask questions.
+- **Discussions**: Participate in our [GitHub Discussions](https://github.com/orgs/QuizMaster-organisation/discussions) to share ideas and ask questions.
 
 ## Support
 
-If you need help or have any questions, please feel free to reach out to us through our [GitHub Issues]([https://github.com/QuizMaster-organisation/issues](https://github.com/hermonochy/QuizMaster/issues) or [Discussions]([https://github.com/QuizMaster-organisation/Discussions](https://github.com/orgs/QuizMaster-organisation/discussions).
+If you need help or have any questions, please feel free to reach out to us through our [GitHub Issues](https://github.com/hermonochy/QuizMaster/issues) or [Discussions](https://github.com/orgs/QuizMaster-organisation/discussions).
 
 Thank you for visiting QuizMaster-Organisation! Let's make learning fun and engaging together!
 
