@@ -1,17 +1,20 @@
 # Welcome to QuizMaster!
 
-Welcome to the QuizMaster-Organisation! We are a dedicated team of developers, educators, and quiz enthusiasts committed to creating the best open-source quiz platform and tools. We are using this organisation as a version for the public, while our main development is happening on [hermonochy's](https://github.com/hermonochy/QuizMaster) account.
+Welcome to the QuizMaster Organisation! We are a dedicated team of developers, educators, and quiz enthusiasts committed to creating the best open-source quiz platform and tools. We are using this organisation as a version for the public, while our main development is happening on [hermonochy's](https://github.com/hermonochy/QuizMaster) account.
 
 ## Our Projects
 
-### 1. QuizMaster App
+### QuizMaster App
 
 - **QuizMaster App** is our flagship project - a powerful and flexible quiz application that allows users to create, and play quizzes on various topics, in various ways! It features a user-friendly interface, real-time scoring, and customizable quiz formats.
 
-### 2. QuizMasterMini
+### QuizMasterMini
 
 - **QuizMasterMini** is a smaller version of QuizMaster. Some players may be on a budget with storage capabilities or processing power, so we have created a seperate repository for a smaller version, totalling only 8 MB and with no dependencies!
 
+### QuizMasterTerminal
+
+- **QuizMasterTerminal** is an even smaller version of QuizMasterMini. However, while it totals only 1.4 MB of storage, there is no GUI, and it is purely run via terminal.
 
 ## Contributing
 
@@ -19,6 +22,7 @@ We welcome contributions from the community! Whether you're a developer, designe
 
 - **Code Contributions**: Check out our open issues and submit pull requests.
 - **Additional Quizzes**: If you have knowledge on a paticular subject, make a quiz and create a pull request.
+- **Quiz Error Spotting**: Please run through our quizzes and ckeck for any incorrect information.
 - **Bug Reports**: If you find a bug, please report it using our issue tracker.
 - **Feature Requests**: Have an idea for a new feature? Let us know!
 - **Documentation**: Help us improve our documentation.
@@ -33,6 +37,4 @@ Join our community to stay up-to-date with the latest news, updates, and discuss
 
 If you need help or have any questions, please feel free to reach out to us through our [GitHub Issues](https://github.com/hermonochy/QuizMaster/issues) or [Discussions](https://github.com/orgs/QuizMaster-organisation/discussions).
 
-Thank you for visiting QuizMaster-Organisation! Let's make learning fun and engaging together!
-
-Happy quizzing! 🎉
+Thank you for visiting QuizMaster! Happy quizzing! 🎉
