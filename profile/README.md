@@ -1,20 +1,27 @@
-# Welcome to QuizMaster!
+# Welcome to the World of QuizMaster!
 
-Welcome to the QuizMaster Organisation! We are a dedicated team of developers, educators, and quiz enthusiasts committed to creating the best open-source quiz platform and tools. We are using this organisation as a version for the public, while our main development is happening on [hermonochy's](https://github.com/hermonochy/QuizMaster) account.
+Welcome to the QuizMaster World! We are a dedicated team of developers, educators, and quiz enthusiasts committed to creating the best open-source quiz platform and tools. We are using this organisation as a version for the public, while our main development is happening on [hermonochy's](https://github.com/hermonochy) account.
 
 ## Our Projects
 
 ### QuizMaster App
 
-- **QuizMaster App** is our flagship project - a powerful and flexible quiz application that allows users to create, and play quizzes on various topics, in various ways! It features a user-friendly interface, real-time scoring, and customizable quiz formats.
+- [***QuizMaster App***](https://github.com/QuizMaster-world/QuizMaster) is our flagship project - a powerful and flexible quiz application that allows users to create, and play quizzes on various topics, in various ways! It features a user-friendly interface, real-time scoring, and customizable window themes.
 
-### QuizMasterMini
+### QuizMasterLite
 
-- **QuizMasterMini** is a smaller version of QuizMaster. Some players may be on a budget with storage capabilities or processing power, so we have created a seperate repository for a smaller version, totalling only 8 MB and with no dependencies!
+- [***QuizMasterLite***](https://github.com/QuizMaster-world/QuizMasterLite) is a smaller version of QuizMaster - but still with a GUI. Some players may be on a budget with storage capabilities or processing power, so we have created a seperate repository as a smaller version, totalling only 8 MB and with no dependencies!
 
 ### QuizMasterTerminal
 
-- **QuizMasterTerminal** is an even smaller version of QuizMasterMini. However, while it totals only 1.4 MB of storage, there is no GUI, and it is purely run via terminal.
+- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is an even smaller version of QuizMasterLite. However, while it totals only 1.4 MB of storage, there is no GUI, and it is purely run via terminal.
+
+### MicroQuizMaster
+- [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only 7 KB big! Similar to QuizMasterTerminal, this version contains no example quizzes and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users.
+
+### QuizMaster-web
+
+- **QuizMaster-web** is currently still in its early stages of development, but will soon become a web-app version of QuizMaster App.
 
 ## Contributing
 
