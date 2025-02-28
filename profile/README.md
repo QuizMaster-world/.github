@@ -19,6 +19,11 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
 ### MicroQuizMaster
 - [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only 7 KB big! Similar to QuizMasterTerminal, this version contains no example quizzes and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users.
 
+### QuizMasterPaper
+
+- [***QuizMasterPaper***](https://github.com/QuizMaster-world/QuizMasterPaper) offers a printable version of quizzes that can be used in offline or classroom settings, given in either PDF or TXT. Unlike the other repositories, there is no quiz game but the quizcreator can still read the json format present in other repos.
+
+
 ### QuizMaster-web
 
 - **QuizMaster-web** is currently still in its early stages of development, but will soon become a web-app version of QuizMaster App.
