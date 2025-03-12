@@ -8,21 +8,40 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
 
 - [***QuizMaster App***](https://github.com/QuizMaster-world/QuizMaster) is our flagship project - a powerful and flexible quiz application that allows users to create, and play quizzes on various topics, in various ways! It features a user-friendly interface, real-time scoring, and customizable window themes.
 
+- **Key Benefits**:
+  - (By far!) The richest in features.
+  - User-friendly interface designed for seamless navigation.
+  - Real-time scoring to enhance the competitive experience.
+  - Customizable window themes that allow users to personalize their experience.
+
 ### QuizMasterLite
 
-- [***QuizMasterLite***](https://github.com/QuizMaster-world/QuizMasterLite) is a smaller version of QuizMaster - but still with a GUI. Some players may be on a budget with storage capabilities or processing power, so we have created a seperate repository as a smaller version, totalling only 8 MB and with no dependencies!
+- [***QuizMasterLite***](https://github.com/QuizMaster-world/QuizMasterLite) is a smaller version of QuizMaster - but still with a GUI. While rich in features, QuizMaster App requires high storage capabilities and processing power, so we have created a  lightweight alternative, just 8 MB in size and comes with no dependencies, ensuring accessibility for all!
+
+- **Key Benefits**:
+  - Only 8 MB in size, making it easy to download and install.
+  - No additional dependencies required, simplifying installation.
+  - Retains essential quiz functionalities, ensuring a satisfying user experience.
 
 ### QuizMasterTerminal
 
-- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is an even smaller version of QuizMasterLite. However, while it totals only 1.4 MB of storage, there is no GUI, and it is purely run via terminal.
+- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is an even smaller version of QuizMasterLite. While it lacks a graphical user interface, it delivers an efficient quizzing experience for users preferring command-line interactions.
 
+- **Key Benefits**:
+  - Minimal size of just 1.4 MB.
+  - Ideal for developers and users who prefer command-line tools.
+  - Enables quick access to quizzes without the overhead of graphical components.
+  
 ### MicroQuizMaster
 - [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only 7 KB big! Similar to QuizMasterTerminal, this version contains no example quizzes and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users.
 
 ### QuizMasterPaper
 
-- [***QuizMasterPaper***](https://github.com/QuizMaster-world/QuizMasterPaper) offers a printable version of quizzes that can be used in offline or classroom settings, given in either PDF or TXT. Unlike the other repositories, there is no quiz game but the quizcreator can still read the json format present in other repos.
+- [***QuizMasterPaper***](https://github.com/QuizMaster-world/QuizMasterPaper) offers a printable version of quizzes that can be used in offline or classroom settings, given in either PDF or TXT. While this project doesn't offer an interactive quiz game, the quiz creator can utilize the JSON format found in our other repositories.
 
+- **Features**:
+  - Perfect for school teachers.
+  - Allows quiz creators to use the JSON formats from our other repositories.
 
 ### QuizMaster-web
 
@@ -33,10 +52,10 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
 We welcome contributions from the community! Whether you're a developer, designer, educator, or just someone passionate about quizzes, there are many ways you can help:
 
 - **Code Contributions**: Check out our open issues and submit pull requests.
-- **Additional Quizzes**: If you have knowledge on a paticular subject, make a quiz and create a pull request.
-- **Quiz Error Spotting**: Please run through our quizzes and ckeck for any incorrect information.
-- **Bug Reports**: If you find a bug, please report it using our issue tracker.
-- **Feature Requests**: Have an idea for a new feature? Let us know!
+- **Additional Quizzes**: If you have expertise in a specific area, consider crafting a quiz and sharing it by creating a pull request. Your knowledge could inspire others!
+- **Quiz Error Spotting**: Help us ensure the accuracy of our content. Run through existing quizzes and report any discrepancies or outdated information.
+- **Bug Reports**: If you encounter any issues while using our applications, please let us know via issues. Your feedback helps us resolve bugs promptly.
+- **Feature Requests**: Have an idea for a new feature? Let us know and we will take them into consideration during our development process!
 - **Documentation**: Help us improve our documentation.
 
 ## Community
@@ -45,8 +64,9 @@ Join our community to stay up-to-date with the latest news, updates, and discuss
 
 - **Discussions**: Participate in our [GitHub Discussions](https://github.com/orgs/QuizMaster-world/discussions) to share ideas and ask questions.
 
-## Support
+Your experience matters to us! If you have any questions, need help, or want to provide feedback, please don’t hesitate to reach out:
 
-If you need help or have any questions, please feel free to reach out to us through our [GitHub Issues](https://github.com/hermonochy/QuizMaster/issues) or [Discussions](https://github.com/orgs/QuizMaster-world/discussions).
+- **GitHub Issues**: Use our [issue tracker](https://github.com/hermonochy/QuizMaster/issues) for reporting bugs or requesting features.
+- **Discussions**: Engage with our community or seek assistance through [GitHub Discussions](https://github.com/orgs/QuizMaster-world/discussions).
 
-Thank you for visiting QuizMaster! Happy quizzing! 🎉
+Thank you for visiting QuizMaster! We hope you dive in and enjoy your quizzing journey. Happy quizzing! 🎉
