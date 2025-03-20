@@ -1,5 +1,7 @@
 # Welcome to the World of QuizMaster!
 
+![](Images/Logo.png)
+
 Welcome to the QuizMaster World! We are a dedicated team of developers, educators, and quiz enthusiasts committed to creating the best open-source quiz platform and tools. We are using this organisation as a version for the public, while our main development is happening on [hermonochy's](https://github.com/hermonochy) account.
 
 ## Our Projects
