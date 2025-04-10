@@ -17,9 +17,9 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
   - Customizable window themes that allow users to personalize their experience.
   - Quick Startup of QuizCreator.
 
-### QuizMasterLite
+### QuizMasterMini
 
-- [***QuizMasterLite***](https://github.com/QuizMaster-world/QuizMasterLite) is a smaller version of QuizMaster - but still with a GUI. While rich in features, QuizMaster App requires high storage capabilities and processing power, so we have created a  lightweight alternative, just 8 MB in size and comes with no dependencies, ensuring accessibility for all!
+- [***QuizMasterMini***](https://github.com/QuizMaster-world/QuizMasterMini) is a smaller version of QuizMaster - but still with a GUI. While rich in features, QuizMaster App requires high storage capabilities and processing power, so we have created a  lightweight alternative, just 8 MB in size and comes with no dependencies, ensuring accessibility for all!
 
 - **Key Benefits**:
   - Only 8 MB in size, making it quick to download and install.
@@ -28,7 +28,7 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
 
 ### QuizMasterTerminal
 
-- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is an even smaller version of QuizMasterLite. While it lacks a graphical user interface, it still delivers an efficient quizzing experience for users preferring command-line interactions.
+- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is an even smaller version of QuizMasterMini. While it lacks a graphical user interface, it still delivers an efficient quizzing experience for users preferring command-line interactions.
 
 - **Key Benefits**:
   - Minimal size of just 1.4 MB.
