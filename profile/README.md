@@ -13,22 +13,34 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
 - **Key Benefits**:
   - The richest in features (By far!).
   - User-friendly interface designed for seamless navigation.
+  - Many extra "frills" to make it a more pleasing experience.
   - Real-time scoring to enhance the competitive experience.
   - Customizable window themes that allow users to personalize their experience.
   - Quick Startup of QuizCreator.
+  - Arguments allowed at start to speed up navigation.
+
+### QuizMasterLite 
+
+- [***QuizMasterLite***](https://github.com/QuizMaster-world/QuizMasterLite) is the first lighter version of the QuizMaster App, designed for users who need the core functionality of QuizMaster without the additional "frills" that increase size and complexity. By focusing on retaining the essential quiz creation and playing capabilities, QuizMasterLite ensures that users can still enjoy a seamless and engaging experience while benefiting from a significantly smaller application footprint.
+
+- **Key Benefits:**
+  - Compact and efficient, offering the essential quiz functionalities.
+  - No extra "frilly" bits, which take up much of the proccessing power.
+  - Maintains the same user-friendly GUI for a consistent experience.
+  - Perfect for users who need a streamlined application with minimal storage requirements.
 
 ### QuizMasterMini
 
-- [***QuizMasterMini***](https://github.com/QuizMaster-world/QuizMasterMini) is a smaller version of QuizMaster - but still with a GUI. While rich in features, QuizMaster App requires high storage capabilities and processing power, so we have created a  lightweight alternative, just 8 MB in size and comes with no dependencies, ensuring accessibility for all!
+- [***QuizMasterMini***](https://github.com/QuizMaster-world/QuizMasterMini) is an even smaller version of QuizMaster with a GUI which less aesthetically pleasing than pygame but a lot smaller. Another lightweight alternative, QuizMasterMini is just 8 MB in size and comes with no dependencies, ensuring accessibility for all!
 
 - **Key Benefits**:
   - Only 8 MB in size, making it quick to download and install.
   - No additional dependencies required, simplifying installation.
-  - Retains essential quiz functionalities, ensuring a satisfying user experience.
+  - Retains the most basic quiz functionalities, ensuring a satisfying user experience.
 
 ### QuizMasterTerminal
 
-- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is an even smaller version of QuizMasterMini. While it lacks a graphical user interface, it still delivers an efficient quizzing experience for users preferring command-line interactions.
+- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) is yet another even smaller version of QuizMasterMini. While it lacks a graphical user interface, it still delivers an efficient quizzing experience for users preferring command-line interactions.
 
 - **Key Benefits**:
   - Minimal size of just 1.4 MB.
@@ -36,7 +48,7 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
   - Enables quick access to quizzes without the overhead of graphical components.
   
 ### MicroQuizMaster
-- [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only 8 KB big! Similar to QuizMasterTerminal, this version contains no example quizzes and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users.
+- [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only 8 ***KB*** big! Similar to QuizMasterTerminal, this version contains no example quizzes and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users or those seeking an experience with absolutely no frills.
 
 ### QuizMasterPaper
 
