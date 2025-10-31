@@ -15,10 +15,9 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
   - Over 12 fun game modes.
   - User-friendly interface designed for seamless navigation.
   - Many extra "frills" to make it a more pleasing experience.
-  - Real-time scoring to enhance the competitive experience.
   - Customizable window themes that allow users to personalize their experience.
   - Quick Startup of QuizCreator.
-  - Arguments allowed at start to speed up navigation.
+  - Startup arguments supported to speed up navigation.
 
 ### QuizMasterLite 
 
@@ -41,7 +40,7 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
 
 ### QuizMasterTerminal
 
-- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) uses a Terminal User Interface (TUI), allowing it to still delivers an efficient quizzing experience for users preferring command-line interactions or on systems where a graphical window is unavalible.
+- [***QuizMasterTerminal***](https://github.com/QuizMaster-world/QuizMasterTerminal) uses a Terminal User Interface (TUI), allowing it to still deliver an efficient quizzing experience for users preferring command-line interactions or on systems where a graphical window is unavalible.
 
 - **Key Benefits**:
   - Minimal size of just 1.4 MB.
@@ -49,7 +48,7 @@ Welcome to the QuizMaster World! We are a dedicated team of developers, educator
   - Enables quick access to quizzes without the overhead of graphical components.
   
 ### MicroQuizMaster
-- [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only ***8 KB*** big! Unlike to QuizMasterTerminal, this version contains no example quizzes, does not even use a TUI interface and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users or those seeking an experience with absolutely no frills.
+- [***MicroQuizMaster***](https://github.com/QuizMaster-world/MicroQuizMaster) is our very smallest project, only ***8 KB*** big! Unlike QuizMasterTerminal, this version contains no example quizzes, does not even use a TUI interface and is the only MIT licenced repository. It targets users with the very weakest devices, **especially** Windows users or those seeking an experience with absolutely no frills.
 - **Key Benefits**
   - Smallest avalible version of QuizMaster
   - No requirements
